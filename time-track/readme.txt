@@ -1,0 +1,1 @@
+Different activities can be recorded with the program. These are started with a counter when selected. If you change the activity or stop it, the counter will be continued when the activity resumes. One file with the date stamp and time is written on the SD card per day per activity.
